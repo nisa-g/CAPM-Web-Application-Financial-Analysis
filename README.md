@@ -78,6 +78,10 @@ We developed a web application using Python with Streamlit framework to quickly 
 
 ### **Result**
 
+[Click to view full code of CAPM Return](https://github.com/nisa-g/CAPM-Web-Application-Financial-Analysis/blob/main/CAPM_Returns.py)
+
+[Click to view full code of CAPM Functions](https://github.com/nisa-g/CAPM-Web-Application-Financial-Analysis/blob/main/capm_functions.py
+)
 <br>
 
 <p align="center">
