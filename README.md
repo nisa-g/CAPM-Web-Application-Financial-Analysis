@@ -21,14 +21,6 @@ This project showcases a web application that is designed to perform CAPM calcul
 - CAPM is a model that describes the relationship between the expected return and risk of securities.
 - CAPM indicates that the expected return on a security is equal to the risk-free return plus a risk premium.
 
-<br>
-
-<p align="center">
-  <kbd><img width="400" src="https://github.com/nisa-g/Medical-Inventory-Optimization-and-Forecasting/assets/139193734/54878d70-c2e3-4da6-9cb6-f1a4438dbeed"></kbd> <br>
-  Figure 1 — CAPM Formula
-</p>
-<br>
-
 #### **Risk Free Asset Return**
 
 - A risk free asset could be a US Government 10 year Treasury bill.
