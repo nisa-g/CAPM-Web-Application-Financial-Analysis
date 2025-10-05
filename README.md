@@ -77,7 +77,7 @@ We developed a web application using Python with Streamlit framework to quickly 
 <br>
 
 <p align="center">
-  <kbd><img width="900" src="https://github.com/nisa-g/Medical-Inventory-Optimization-and-Forecasting/assets/139193734/a47a0d59-b3a6-409c-be4e-fae8ecfbd796"></kbd> <br>
+  <kbd><img width="900" src="https://github.com/nisa-g/CAPM-Web-Application-Financial-Analysis/blob/main/Dataframe%20head%20and%20dataframe%20tail%20with%204%20selected%20stocks%20(Tesla%2C%20Apple%2C%20Amazon%20%26%20Google).png"></kbd> <br>
   Figure 2 — Dataframe head and dataframe tail with 4 selected stocks (Tesla, Apple, Amazon & Google).
 </p>
 <br>
