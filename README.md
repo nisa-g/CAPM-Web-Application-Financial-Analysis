@@ -78,7 +78,7 @@ We developed a web application using Python with Streamlit framework to quickly 
 
 <p align="center">
   <kbd><img width="900" src="https://github.com/nisa-g/CAPM-Web-Application-Financial-Analysis/blob/main/Dataframe%20head%20and%20dataframe%20tail%20with%204%20selected%20stocks%20(Tesla%2C%20Apple%2C%20Amazon%20%26%20Google).png"></kbd> <br>
-  Figure 2 — Dataframe head and dataframe tail with 4 selected stocks (Tesla, Apple, Amazon & Google).
+  Figure 1 — Dataframe head and dataframe tail with 4 selected stocks (Tesla, Apple, Amazon & Google).
 </p>
 <br>
 
@@ -86,7 +86,7 @@ We developed a web application using Python with Streamlit framework to quickly 
 
 <p align="center">
   <kbd><img width="900" src="https://github.com/nisa-g/CAPM-Web-Application-Financial-Analysis/blob/main/Price%20of%20all%20stocks%20before%20and%20after%20normalizing.png"></kbd> <br>
-  Figure 3 — Price of all stocks before and after normalizing.
+  Figure 2 — Price of all stocks before and after normalizing.
 </p>
 
 
