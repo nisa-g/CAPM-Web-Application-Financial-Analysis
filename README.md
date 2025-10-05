@@ -85,18 +85,10 @@ We developed a web application using Python with Streamlit framework to quickly 
 <br>
 
 <p align="center">
-  <kbd><img width="900" src="https://github.com/nisa-g/Medical-Inventory-Optimization-and-Forecasting/assets/139193734/bbbf3332-dd96-494a-9fa3-b809a57252f1"></kbd> <br>
+  <kbd><img width="900" src="https://github.com/nisa-g/CAPM-Web-Application-Financial-Analysis/blob/main/Price%20of%20all%20stocks%20before%20and%20after%20normalizing.png"></kbd> <br>
   Figure 3 — Price of all stocks before and after normalizing.
 </p>
-<br>
 
-<br>
-
-<p align="center">
-  <kbd><img width="900" src="https://github.com/nisa-g/Medical-Inventory-Optimization-and-Forecasting/assets/139193734/fda77db4-04d1-4795-ba0b-963636571727"></kbd> <br>
-  Figure 4 — Calculated Beta value and CAPM return value.
-</p>
-<br>
 
 
 
